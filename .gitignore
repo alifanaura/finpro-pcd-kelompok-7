@@ -1,0 +1,15 @@
+# Dataset (unduh dari Kaggle, jangan di-commit)
+Indonesian License Plate Dataset/
+Indonesian License Plate Recognition Dataset/
+*.zip
+
+# Output run lokal
+outputs/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
