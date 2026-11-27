@@ -3,11 +3,7 @@
 Final project mata kuliah Pengolahan Citra Digital, Kelompok 7.
 
 Anggota: 
-Naura Alifa Damayanti
-Andi Nabil Safaraz 
-Muhammad Iqbal Hilmi 
-Dania Hafiza  
-Jundan Saiful Haq
+Naura Alifa Damayanti, Andi Nabil Safaraz, Muhammad Iqbal Hilmi, Dania Hafiza, Jundan Saiful Haq
 
 Sistem ini mencari semua plat nomor pada foto jalan raya, lalu menentukan label ganjil atau genap dari digit terakhir setiap plat. Semua tahap menggunakan pengolahan citra konvensional, tanpa deep learning: enhancement, lokalisasi ROI (Sobel, Canny, morfologi), segmentasi karakter (Otsu, CCL), fitur HOG/LBP, dan classifier KNN/SVM/XGBoost.
 
